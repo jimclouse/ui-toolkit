@@ -33,7 +33,7 @@
     "glg-nectar": "git://github.com/custom-elements/glg-nectar#2.0.3",
     "glg-name-match": "git://github.com/custom-elements/glg-name-match#1.0.2",
     "glg-current-user": "git://github.com/custom-elements/glg-current-user#0.0.5",
-    "glg-taxonomy": "git://github.com/custom-elements/glg-taxonomy#elastic",
+    "glg-taxonomy": "git://github.com/jimclouse/glg-taxonomy#singleSelect",
     "glg-stats": "git://github.com/custom-elements/glg-stats",
     "glg-tag-cm": "git://github.com/custom-elements/glg-tag-cm",
     "glg-tag-project": "git://github.com/custom-elements/glg-tag-project",
